@@ -42,4 +42,3 @@ vignettes/*.pdf
 /.quarto/
 .Rproj.user
 
-*.Rproj
